@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://tuandzung.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Ngo Tuan Dung',
+  subtitle: "Stuffs I'd like to write down.",
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'ngtundng',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
@@ -25,19 +25,21 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ngo Tuan Dung',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Ngo Tuan Dung is a Machine Learning/Deep Learning/Computer Vision engineer, \
+    currently working at GI Software JSC., Hanoi, Vietnam. His personal hobbies are music, \
+    movies, coffee, and Arsenal.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'zun1903@gmail.com',
+      facebook: 'ph0ngt3p',
+      telegram: '',
+      twitter: 'just_ph0ngt3p',
+      github: 'tuandzung',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'tuandzungngo',
+      instagram: 'tuan.dzung',
       line: '',
       gitlab: '',
       weibo: '',
