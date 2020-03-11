@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://tuandzung.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Ngo Tuan Dung',
-  subtitle: "Stuffs I'd like to write down.",
+  subtitle: 'Stuffs I\'d like to write down.',
   copyright: '© All rights reserved.',
   disqusShortname: 'ngtundng',
   postsPerPage: 4,
