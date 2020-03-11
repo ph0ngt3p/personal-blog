@@ -27,9 +27,7 @@ module.exports = {
   author: {
     name: 'Ngo Tuan Dung',
     photo: '/photo.jpg',
-    bio: 'Ngo Tuan Dung is a Machine Learning/Deep Learning/Computer Vision engineer, \
-    currently working at GI Software JSC., Hanoi, Vietnam. His personal hobbies are music, \
-    movies, coffee, and Arsenal.',
+    bio: 'Ngo Tuan Dung is a Machine Learning/Deep Learning/Computer Vision engineer, currently working at GI Software JSC., Hanoi, Vietnam. His personal hobbies are music, movies, coffee, and Arsenal.',
     contacts: {
       email: 'zun1903@gmail.com',
       facebook: 'ph0ngt3p',
